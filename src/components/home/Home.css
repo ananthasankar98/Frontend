@@ -1,0 +1,12 @@
+.home{
+    font-family: 'Roboto';    
+}
+
+
+.home h1{
+    margin: 70px 100px 75px 100px;
+    text-align: center;
+    color: #000020;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20px;
+}

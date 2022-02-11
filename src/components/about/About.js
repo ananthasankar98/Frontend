@@ -4,7 +4,7 @@ import myImage from './hat.jpg';
 
 function About(props) {
     return (
-        <h1></h1>
+        <h1>Processing....</h1>
     );
 }
 
